@@ -1,0 +1,3 @@
+[submodule "ripme"]
+	path = ripme
+	url = https://github.com/RipMeApp/ripme
